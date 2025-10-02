@@ -1,7 +1,7 @@
 ## Hi there I'm Eugene Clark Eridao👋
 
 # 💫 About Me:
-A passionate GameDeveloper from the Philippines<br>🔭 I’m currently working on Tactical Zombies(DFYT) - a Mid-Casual Game
+🎮 A passionate GameDeveloper from the Philippines<br>🔭 I’m currently working on Tactical Zombies(DFYT) - a Mid-Casual Game
 
 
 ## 🌐 Socials:
