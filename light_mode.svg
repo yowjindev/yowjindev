@@ -1,50 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1116" height="592" viewBox="0 0 1116 592" font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo','DejaVu Sans Mono',monospace" font-size="15">
-<rect x="0.5" y="0.5" width="1115" height="591" rx="8" fill="#ffffff" stroke="#d0d7de"/>
-<text x="28" y="59" xml:space="preserve" fill="#24292f">                    .:+#%%##%;:,</text>
-<text x="28" y="78" xml:space="preserve" fill="#24292f">                 ,+%@@@@@@@@@@@@@*:</text>
-<text x="28" y="97" xml:space="preserve" fill="#24292f">               ,#@@@@@@@@@@@@@@@@@@%;</text>
-<text x="28" y="116" xml:space="preserve" fill="#24292f">              =@@@@@@@@@@@@@@@@@@@@@@+</text>
-<text x="28" y="135" xml:space="preserve" fill="#24292f">              @@@@@@@@@@@@@@%%%@@@@@@@*</text>
-<text x="28" y="154" xml:space="preserve" fill="#24292f">              *@####*#*+++=++++**#@@@@#</text>
-<text x="28" y="173" xml:space="preserve" fill="#24292f">               #####*+=;;=+********@@@.</text>
-<text x="28" y="192" xml:space="preserve" fill="#24292f">              .+*####**==+**##*++**#%#</text>
-<text x="28" y="211" xml:space="preserve" fill="#24292f">              +****+++*=++=++++=++**+*=</text>
-<text x="28" y="230" xml:space="preserve" fill="#24292f">              ,**====*+=++=;;;;==+*+*+</text>
-<text x="28" y="249" xml:space="preserve" fill="#24292f">               +*+==+*+=++=;;;;=++*++</text>
-<text x="28" y="268" xml:space="preserve" fill="#24292f">                +*++***+++*+===++*;</text>
-<text x="28" y="287" xml:space="preserve" fill="#24292f">                 =*++*+++++==+++*=</text>
-<text x="28" y="306" xml:space="preserve" fill="#24292f">                  ;**+======+***#,</text>
-<text x="28" y="325" xml:space="preserve" fill="#24292f">                  .***********++*=;</text>
-<text x="28" y="344" xml:space="preserve" fill="#24292f">                 ,=*****+++++==;:;#*.</text>
-<text x="28" y="363" xml:space="preserve" fill="#24292f">               ,=#=;++++===;:,,,:*###=,.</text>
-<text x="28" y="382" xml:space="preserve" fill="#24292f">         .:=+*#%%#;;::===:,,...:*###**##*=;,.</text>
-<text x="28" y="401" xml:space="preserve" fill="#24292f">   .,;=*###%%#####;;=#@%@+,...:*##****#######*+;:.</text>
-<text x="28" y="420" xml:space="preserve" fill="#24292f">=+*##############+;*%@@@@@%:.,*#########******###**+</text>
-<text x="28" y="439" xml:space="preserve" fill="#24292f">%########%#######===+@@@%+;;;*##########*#**#*****##</text>
-<text x="28" y="458" xml:space="preserve" fill="#24292f">%########%######*;;;%@@@*,,;*#######################</text>
-<text x="28" y="477" xml:space="preserve" fill="#24292f">%%##############+:;#@@@@@;:+#########*##############</text>
-<text x="28" y="496" xml:space="preserve" fill="#24292f">%%##############+:*@@@@@@==#########*###############</text>
-<text x="28" y="515" xml:space="preserve" fill="#24292f">%%##############+;@@@@@@@*########**####*###########</text>
-<text x="28" y="534" xml:space="preserve" fill="#24292f">%%%%%###########+*@@@@@@@#############**######%#####</text>
-<text x="28" y="553" xml:space="preserve" fill="#24292f">%%%%%%%#########*%@@@@@@#**########*#########%######</text>
-<text y="78" xml:space="preserve"><tspan x="537.6" fill="#0969da">yujin@techiron</tspan><tspan x="664.0" fill="#8c959f"> ──────────────────────────────────────────────</tspan></text>
-<text y="97" xml:space="preserve"><tspan x="537.6" fill="#953800">OS</tspan><tspan x="555.6" fill="#57606a">:</tspan><tspan x="564.6" fill="#8c959f"> . . . . . . . . . . . </tspan><tspan x="772.3" fill="#24292f">macOS Tahoe, Windows 11, Android 14</tspan></text>
-<text y="116" xml:space="preserve"><tspan x="537.6" fill="#953800">Uptime</tspan><tspan x="591.7" fill="#57606a">:</tspan><tspan x="600.8" fill="#8c959f"> . . . . . . . . . . . . .  </tspan><tspan x="853.6" fill="#24292f">23 years, 3 months, 0 days</tspan></text>
-<text y="135" xml:space="preserve"><tspan x="537.6" fill="#953800">Host</tspan><tspan x="573.7" fill="#57606a">:</tspan><tspan x="582.7" fill="#8c959f"> . . . . . . . . . . . . . . . . </tspan><tspan x="880.7" fill="#24292f">Techiron Resources Inc.</tspan></text>
-<text y="154" xml:space="preserve"><tspan x="537.6" fill="#953800">Kernel</tspan><tspan x="591.7" fill="#57606a">:</tspan><tspan x="600.8" fill="#8c959f"> . . . . . . . . . . . . . . . . . . </tspan><tspan x="934.9" fill="#24292f">Software Engineer</tspan></text>
-<text y="173" xml:space="preserve"><tspan x="537.6" fill="#953800">IDE</tspan><tspan x="564.6" fill="#57606a">:</tspan><tspan x="573.7" fill="#8c959f"> . . . . . . . . . . . . . . . . . . . . . .  </tspan><tspan x="989.1" fill="#24292f">VSCode, Zed</tspan></text>
-<text y="211" xml:space="preserve"><tspan x="537.6" fill="#953800">Languages.Programming</tspan><tspan x="727.2" fill="#57606a">:</tspan><tspan x="736.2" fill="#8c959f"> . </tspan><tspan x="763.3" fill="#24292f">C++, PHP, TypeScript, Python, Kotlin</tspan></text>
-<text y="230" xml:space="preserve"><tspan x="537.6" fill="#953800">Languages.Computer</tspan><tspan x="700.1" fill="#57606a">:</tspan><tspan x="709.1" fill="#8c959f"> . . . . . . . . . . </tspan><tspan x="898.8" fill="#24292f">TSX, CPP, PY, PHP, KT</tspan></text>
-<text y="249" xml:space="preserve"><tspan x="537.6" fill="#953800">Languages.Real</tspan><tspan x="664.0" fill="#57606a">:</tspan><tspan x="673.0" fill="#8c959f"> . . . . . . . . . . . . . .  </tspan><tspan x="943.9" fill="#24292f">English, Tagalog</tspan></text>
-<text y="287" xml:space="preserve"><tspan x="537.6" fill="#953800">Interests.Software</tspan><tspan x="700.1" fill="#57606a">:</tspan><tspan x="709.1" fill="#8c959f"> . . . . . . . . .  </tspan><tspan x="889.7" fill="#24292f">AI Automation, Backend</tspan></text>
-<text y="306" xml:space="preserve"><tspan x="537.6" fill="#953800">Hobbies.Hardware</tspan><tspan x="682.0" fill="#57606a">:</tspan><tspan x="691.1" fill="#8c959f"> . . </tspan><tspan x="736.2" fill="#24292f">Overclocking, Building, Troubleshooting</tspan></text>
-<text y="344" xml:space="preserve"><tspan x="537.6" fill="#953800">Contact</tspan><tspan x="600.8" fill="#8c959f"> ──────────────────────</tspan></text>
-<text y="363" xml:space="preserve"><tspan x="537.6" fill="#953800">Email.Personal</tspan><tspan x="664.0" fill="#57606a">:</tspan><tspan x="673.0" fill="#8c959f"> . . . . . . . . . . . . .  </tspan><tspan x="925.8" fill="#24292f">ecfe0410@gmail.com</tspan></text>
-<text y="382" xml:space="preserve"><tspan x="537.6" fill="#953800">Email.Work</tspan><tspan x="627.9" fill="#57606a">:</tspan><tspan x="636.9" fill="#8c959f"> . . . . . . . . . . . . . . .  </tspan><tspan x="925.8" fill="#24292f">eridao@techiron.ph</tspan></text>
-<text y="401" xml:space="preserve"><tspan x="537.6" fill="#953800">LinkedIn</tspan><tspan x="609.8" fill="#57606a">:</tspan><tspan x="618.8" fill="#8c959f"> . . . . . . . . . . . . . . . . </tspan><tspan x="916.8" fill="#24292f">eugene-clark-eridao</tspan></text>
-<text y="420" xml:space="preserve"><tspan x="537.6" fill="#953800">Discord</tspan><tspan x="600.8" fill="#57606a">:</tspan><tspan x="609.8" fill="#8c959f"> . . . . . . . . . . . . . . . . . . . .  </tspan><tspan x="989.1" fill="#24292f">YUJINHMNIDA</tspan></text>
-<text y="458" xml:space="preserve"><tspan x="537.6" fill="#953800">GitHub Stats</tspan><tspan x="645.9" fill="#8c959f"> ──────────────────────</tspan></text>
-<text y="477" xml:space="preserve"><tspan x="537.6" fill="#953800">Repos</tspan><tspan x="582.7" fill="#57606a">:</tspan><tspan x="591.7" fill="#8c959f"> . . . . . . . . . . . .  </tspan><tspan x="826.5" fill="#24292f">4</tspan><tspan x="835.5" fill="#57606a"> {</tspan><tspan x="853.6" fill="#953800">Contributed</tspan><tspan x="952.9" fill="#57606a">: </tspan><tspan x="971.0" fill="#24292f">0</tspan><tspan x="980.0" fill="#57606a">} | </tspan><tspan x="1016.1" fill="#953800">Stars</tspan><tspan x="1061.3" fill="#57606a">: </tspan><tspan x="1079.4" fill="#24292f">0</tspan></text>
-<text y="496" xml:space="preserve"><tspan x="537.6" fill="#953800">Commits</tspan><tspan x="600.8" fill="#57606a">:</tspan><tspan x="609.8" fill="#8c959f"> . . . . . . . . . . . . . . . . . </tspan><tspan x="925.8" fill="#24292f">189</tspan><tspan x="952.9" fill="#57606a"> | </tspan><tspan x="980.0" fill="#953800">Followers</tspan><tspan x="1061.3" fill="#57606a">: </tspan><tspan x="1079.4" fill="#24292f">0</tspan></text>
-<text y="515" xml:space="preserve"><tspan x="537.6" fill="#953800">Lines of Code on GitHub</tspan><tspan x="745.2" fill="#57606a">:</tspan><tspan x="754.3" fill="#8c959f"> . . . . </tspan><tspan x="835.5" fill="#24292f">52,704</tspan><tspan x="889.7" fill="#57606a"> ( </tspan><tspan x="916.8" fill="#1a7f37">54,248++</tspan><tspan x="989.1" fill="#57606a">, </tspan><tspan x="1007.1" fill="#cf222e">1,544--</tspan><tspan x="1070.3" fill="#57606a"> )</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="612" viewBox="0 0 1176 612" font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo','DejaVu Sans Mono',monospace" font-size="15">
+<rect x="0.5" y="0.5" width="1175" height="611" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="28" y="51.5" xml:space="preserve" font-size="10" fill="#24292f">                                        ;;;;;;;";</text>
+<text x="28" y="63.0" xml:space="preserve" font-size="10" fill="#24292f">                                   '"/CbMB@@8ob8%j;;.;</text>
+<text x="28" y="74.5" xml:space="preserve" font-size="10" fill="#24292f">                                ')L&amp;$$$$$$$$$$$$$$#8WhO};</text>
+<text x="28" y="86.0" xml:space="preserve" font-size="10" fill="#24292f">                             .c*$$$$$@@$$$$$$$$$$$$$$$$$MX;'</text>
+<text x="28" y="97.5" xml:space="preserve" font-size="10" fill="#24292f">                           ;O$$$$@@$$$$$$$$$$$$$$@$@$@@$$$$Mj;</text>
+<text x="28" y="109.0" xml:space="preserve" font-size="10" fill="#24292f">                         ;Q$$$@$$$$$$$$$$$$$$$$$$$$$$$$$$@@$$*;</text>
+<text x="28" y="120.5" xml:space="preserve" font-size="10" fill="#24292f">                        _W$@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$]</text>
+<text x="28" y="132.0" xml:space="preserve" font-size="10" fill="#24292f">                       ;$$@$$$$$$$$$$$$$$$@$$$$$$$$%B$$$$$$$$$$$J;</text>
+<text x="28" y="143.5" xml:space="preserve" font-size="10" fill="#24292f">                       -$@$$$$$$$$@%$$$@&amp;%@@%88Mhbkb8%W%@$$$$$$@$n</text>
+<text x="28" y="155.0" xml:space="preserve" font-size="10" fill="#24292f">                       ;$$$M#W8o8**8%%kmZwQCXzYnrrcQ0JLqkW$$$$$@$L</text>
+<text x="28" y="166.5" xml:space="preserve" font-size="10" fill="#24292f">                        X$*CYUUXvjnrnr|(11}}[[{{|\/|/ncUUQW$$$$$$(</text>
+<text x="28" y="178.0" xml:space="preserve" font-size="10" fill="#24292f">                        'WwU0qdkdZY/]__-___]1tnYQOQJYzuczXCM$$@$O</text>
+<text x="28" y="189.5" xml:space="preserve" font-size="10" fill="#24292f">                         ,qJqbm0QQZwLj1{?-{xJZZQCUYCQOXvcYYpB$$$:</text>
+<text x="28" y="201.0" xml:space="preserve" font-size="10" fill="#24292f">                        ';JJYUZp0OQUYXc/{{trxvcJCL0cjxrvvzYOk8&amp;p;</text>
+<text x="28" y="212.5" xml:space="preserve" font-size="10" fill="#24292f">                       `OUJzcCbdCbhYXzUt)/x/nUudbOp0x//rncYLJnjvJ;</text>
+<text x="28" y="224.0" xml:space="preserve" font-size="10" fill="#24292f">                       ;vcYXXcxrf\/jnXv{1f/\(|t/|\/\\\fjxvUUYntrU1</text>
+<text x="28" y="235.5" xml:space="preserve" font-size="10" fill="#24292f">                        ?Xzznt)1111tXct]}/jf}+?}{11}[})/rcJYrYjz/'</text>
+<text x="28" y="247.0" xml:space="preserve" font-size="10" fill="#24292f">                        ;vzcn/[--[|vvz\[1jtrn{+++&lt;i~?}(\rXCXtxnf;</text>
+<text x="28" y="258.5" xml:space="preserve" font-size="10" fill="#24292f">                         +Zcut1??1/nXCvrruvj/[???+~-{|/tnXYzXJr;</text>
+<text x="28" y="270.0" xml:space="preserve" font-size="10" fill="#24292f">                         '|Yvnj\|frrft({{111}}}{}11)|/tjvYL}}['</text>
+<text x="28" y="281.5" xml:space="preserve" font-size="10" fill="#24292f">                           (Uxnf\vQ0QLUYYXcXJCzf({(\ttjnvOI</text>
+<text x="28" y="293.0" xml:space="preserve" font-size="10" fill="#24292f">                           'nJnnftvJOOzvccYJUzt(|(trjjnv0[</text>
+<text x="28" y="304.5" xml:space="preserve" font-size="10" fill="#24292f">                            '1JYcrfft////\|1{}}})jxrxvX0r</text>
+<text x="28" y="316.0" xml:space="preserve" font-size="10" fill="#24292f">                              ;nJXntt/(1}[?[[?[(rvcYCQCw:</text>
+<text x="28" y="327.5" xml:space="preserve" font-size="10" fill="#24292f">                               I0UJvr/\({111}(jcUJLCUXcC&gt;'</text>
+<text x="28" y="339.0" xml:space="preserve" font-size="10" fill="#24292f">                               ;QYJLCUYXXXYYUCQ0QJznrrvQcj(</text>
+<text x="28" y="350.5" xml:space="preserve" font-size="10" fill="#24292f">                              ']QzXUCCCCLQQLCJXcxf\|fxr)i[ov'</text>
+<text x="28" y="362.0" xml:space="preserve" font-size="10" fill="#24292f">                             ;Q{JQcvXYcxtfjft/|))||([i"^IxwhZ!</text>
+<text x="28" y="373.5" xml:space="preserve" font-size="10" fill="#24292f">                           '!MY~?rJzuvuj|((111))}+;.  `"|0wwqkY:'</text>
+<text x="28" y="385.0" xml:space="preserve" font-size="10" fill="#24292f">                      '':]fZo*(++i+tXzn/|((((1_:       {COmZOLOwXt~''</text>
+<text x="28" y="396.5" xml:space="preserve" font-size="10" fill="#24292f">                 '"-jJwhha*kZh(&lt;&lt;~&gt;;;-//[]}?;         |LCOOQQCUYJpdwQv)!''</text>
+<text x="28" y="408.0" xml:space="preserve" font-size="10" fill="#24292f">           '';}uQqbhkwOZmqpqwa|+&lt;&lt;i;!/J//zl          jwLQQLJCCJUX0mLQQmwZCc/_^''</text>
+<text x="28" y="419.5" xml:space="preserve" font-size="10" fill="#24292f">      ''&lt;|c0qdpwmZOZhhZmwppZqb[?+I_J%$@B$$W|'       fmCLLLCUJXXCCOwCLCJJJCLOmZQYj?"''</text>
+<text x="28" y="431.0" xml:space="preserve" font-size="10" fill="#24292f">;'"?jYZqqqwZOOOOOZZZwdqqqqpOdQ+~iv%$$@$$@B$$wl     /ZCLLQQQLQwbbdq0CCCCCLCJJJUCCL0OQzt-,</text>
+<text x="28" y="442.5" xml:space="preserve" font-size="10" fill="#24292f">wddbpmZ0OZZmZZOmpwmwwmqqwqqQ*c![Z*0W$$@@@$$$$M]   }mQLQQQ00QOmwO0QLLCCLCLCCLCJCCCUUUCQZm</text>
+<text x="28" y="454.0" xml:space="preserve" font-size="10" fill="#24292f">bZZmwwwwwmwmZZZwbmZwwqwwqqZQhr~uf1{h$@@@$$av{-(? )wQQQQQQOOOOOQOpOCLCLQCCCLQLCCCCCJCCLCC</text>
+<text x="28" y="465.5" xml:space="preserve" font-size="10" fill="#24292f">dwqqwwqwwmZZmmZwkmZmmwwmqwOOY}+&gt;&gt;~{8@@@$$X!'`^I!jw0CQQLQQQ0ZZQmpOLQQQ0QQQLLQLLQLCLLQOLQO</text>
+<text x="28" y="477.0" xml:space="preserve" font-size="10" fill="#24292f">bpqqwqqmqmmmwmwwbwZZZmmwqqOOj&gt;&gt;_]~q$BB@@$c'::;I(O0QLQQQQ0LQOOpq0LQQQQQLQ0QQQQQQQQLCmQQZw</text>
+<text x="28" y="488.5" xml:space="preserve" font-size="10" fill="#24292f">obpqqwwwqwwmmmmmbwOZZmwmqwQO?^l&lt;~m$@@B@@$8;::^]00QQLQO0QQO0Zqw0QQLQLQLCQQQ00LQQLQLwOL0Zm</text>
+<text x="28" y="500.0" xml:space="preserve" font-size="10" fill="#24292f">okpdqqqqqwwmmwmmkqOZZZmqqmQZ?'!!L$@@@B@$@$|:,iLOLQ0QLQQ0OQwq0LLLLQ0QQQQ0LCQQL0QLJwmLOZwq</text>
+<text x="28" y="511.5" xml:space="preserve" font-size="10" fill="#24292f">hobqqqqqqwwmZmmZddOOZmwwqm0O]:ln$@@@@@@@@$Z;:zOLQQO0LQ0Q0qwQQQCLLLQQQLQQCLQL0O0LZqQOZmqq</text>
+<text x="28" y="523.0" xml:space="preserve" font-size="10" fill="#24292f">b#bpqpppqqwwwmmZwbZZZZmwqZCJ]l[8$@@$@@@B@$hIrmCQQQ0QQ0QOqZLQLLQQQQQQQLQQLQQQQ0L0b0OZwqww</text>
+<text x="28" y="534.5" xml:space="preserve" font-size="10" fill="#24292f">qMkpdppqqqwwwwwmmbZOZZmwwZLU-lL$@@$B@@@$@$btZLQQQQLQ0QZw0QCLLLQQLQQCLCQLLQQQQ0QdwQZmwmZZ</text>
+<text x="28" y="546.0" xml:space="preserve" font-size="10" fill="#24292f">pMadpppqqqwwwwwmZdwOZZZmwOCJ_-W$@$@@@@$@@$#QQQQQQQ0QQmOLQQCCQQQQLQLLLLQLLQQ00QdbQZZZZZZm</text>
+<text x="28" y="557.5" xml:space="preserve" font-size="10" fill="#24292f">dM*ppddddpqqqqwZZqdOZZZwwZQL]n$@@@@$@@@@$%ZQQQQQQ00OwOCLQQLQQQQLCCLLLL0LQQQQOw*Z0mZOZZZZ</text>
+<text x="28" y="569.0" xml:space="preserve" font-size="10" fill="#24292f">d*WbdbbdddppqwwZZZdZOOmmmZQZfd$@@@@@@@@@@wLQLCLQQLOmQQLQQQLLLQQQLQLLQQOQ0OOOm*kOZZZZOOZm</text>
+<text x="28" y="580.5" xml:space="preserve" font-size="10" fill="#24292f">boWhbkhbdbdpwwmZZOqqOZmwwmQZO8$$@@$@@$@$bJQQQCLQLOmLLCLQLLLCCLLQLQQ0QQQQZOZwkMZOOZZOOOOm</text>
+<text y="88" xml:space="preserve"><tspan x="597.8" fill="#0969da">yujin@techiron</tspan><tspan x="724.2" fill="#8c959f"> ──────────────────────────────────────────────</tspan></text>
+<text y="107" xml:space="preserve"><tspan x="597.8" fill="#953800">OS</tspan><tspan x="615.8" fill="#57606a">:</tspan><tspan x="624.9" fill="#8c959f"> . . . . . . . . . . . </tspan><tspan x="832.5" fill="#24292f">macOS Tahoe, Windows 11, Android 14</tspan></text>
+<text y="126" xml:space="preserve"><tspan x="597.8" fill="#953800">Uptime</tspan><tspan x="651.9" fill="#57606a">:</tspan><tspan x="661.0" fill="#8c959f"> . . . . . . . . . . . . .  </tspan><tspan x="913.8" fill="#24292f">23 years, 3 months, 0 days</tspan></text>
+<text y="145" xml:space="preserve"><tspan x="597.8" fill="#953800">Host</tspan><tspan x="633.9" fill="#57606a">:</tspan><tspan x="642.9" fill="#8c959f"> . . . . . . . . . . . . . . . . </tspan><tspan x="940.9" fill="#24292f">Techiron Resources Inc.</tspan></text>
+<text y="164" xml:space="preserve"><tspan x="597.8" fill="#953800">Kernel</tspan><tspan x="651.9" fill="#57606a">:</tspan><tspan x="661.0" fill="#8c959f"> . . . . . . . . . . . . . . . . . . </tspan><tspan x="995.1" fill="#24292f">Software Engineer</tspan></text>
+<text y="183" xml:space="preserve"><tspan x="597.8" fill="#953800">IDE</tspan><tspan x="624.9" fill="#57606a">:</tspan><tspan x="633.9" fill="#8c959f"> . . . . . . . . . . . . . . . . . . . . . .  </tspan><tspan x="1049.3" fill="#24292f">VSCode, Zed</tspan></text>
+<text y="221" xml:space="preserve"><tspan x="597.8" fill="#953800">Languages.Programming</tspan><tspan x="787.4" fill="#57606a">:</tspan><tspan x="796.4" fill="#8c959f"> . </tspan><tspan x="823.5" fill="#24292f">C++, PHP, TypeScript, Python, Kotlin</tspan></text>
+<text y="240" xml:space="preserve"><tspan x="597.8" fill="#953800">Languages.Computer</tspan><tspan x="760.3" fill="#57606a">:</tspan><tspan x="769.3" fill="#8c959f"> . . . . . . . . . . </tspan><tspan x="959.0" fill="#24292f">TSX, CPP, PY, PHP, KT</tspan></text>
+<text y="259" xml:space="preserve"><tspan x="597.8" fill="#953800">Languages.Real</tspan><tspan x="724.2" fill="#57606a">:</tspan><tspan x="733.2" fill="#8c959f"> . . . . . . . . . . . . . .  </tspan><tspan x="1004.1" fill="#24292f">English, Tagalog</tspan></text>
+<text y="297" xml:space="preserve"><tspan x="597.8" fill="#953800">Interests.Software</tspan><tspan x="760.3" fill="#57606a">:</tspan><tspan x="769.3" fill="#8c959f"> . . . . . . . . .  </tspan><tspan x="949.9" fill="#24292f">AI Automation, Backend</tspan></text>
+<text y="316" xml:space="preserve"><tspan x="597.8" fill="#953800">Hobbies.Hardware</tspan><tspan x="742.2" fill="#57606a">:</tspan><tspan x="751.3" fill="#8c959f"> . . </tspan><tspan x="796.4" fill="#24292f">Overclocking, Building, Troubleshooting</tspan></text>
+<text y="354" xml:space="preserve"><tspan x="597.8" fill="#953800">Contact</tspan><tspan x="661.0" fill="#8c959f"> ──────────────────────</tspan></text>
+<text y="373" xml:space="preserve"><tspan x="597.8" fill="#953800">Email.Personal</tspan><tspan x="724.2" fill="#57606a">:</tspan><tspan x="733.2" fill="#8c959f"> . . . . . . . . . . . . .  </tspan><tspan x="986.0" fill="#24292f">ecfe0410@gmail.com</tspan></text>
+<text y="392" xml:space="preserve"><tspan x="597.8" fill="#953800">Email.Work</tspan><tspan x="688.1" fill="#57606a">:</tspan><tspan x="697.1" fill="#8c959f"> . . . . . . . . . . . . . . .  </tspan><tspan x="986.0" fill="#24292f">eridao@techiron.ph</tspan></text>
+<text y="411" xml:space="preserve"><tspan x="597.8" fill="#953800">LinkedIn</tspan><tspan x="670.0" fill="#57606a">:</tspan><tspan x="679.0" fill="#8c959f"> . . . . . . . . . . . . . . . . </tspan><tspan x="977.0" fill="#24292f">eugene-clark-eridao</tspan></text>
+<text y="430" xml:space="preserve"><tspan x="597.8" fill="#953800">Discord</tspan><tspan x="661.0" fill="#57606a">:</tspan><tspan x="670.0" fill="#8c959f"> . . . . . . . . . . . . . . . . . . . .  </tspan><tspan x="1049.3" fill="#24292f">YUJINHMNIDA</tspan></text>
+<text y="468" xml:space="preserve"><tspan x="597.8" fill="#953800">GitHub Stats</tspan><tspan x="706.1" fill="#8c959f"> ──────────────────────</tspan></text>
+<text y="487" xml:space="preserve"><tspan x="597.8" fill="#953800">Repos</tspan><tspan x="642.9" fill="#57606a">:</tspan><tspan x="651.9" fill="#8c959f"> . . . . . . . . . . . .  </tspan><tspan x="886.7" fill="#24292f">4</tspan><tspan x="895.8" fill="#57606a"> {</tspan><tspan x="913.8" fill="#953800">Contributed</tspan><tspan x="1013.1" fill="#57606a">: </tspan><tspan x="1031.2" fill="#24292f">1</tspan><tspan x="1040.2" fill="#57606a">} | </tspan><tspan x="1076.3" fill="#953800">Stars</tspan><tspan x="1121.5" fill="#57606a">: </tspan><tspan x="1139.6" fill="#24292f">0</tspan></text>
+<text y="506" xml:space="preserve"><tspan x="597.8" fill="#953800">Commits</tspan><tspan x="661.0" fill="#57606a">:</tspan><tspan x="670.0" fill="#8c959f"> . . . . . . . . . . . . . . . . . </tspan><tspan x="986.0" fill="#24292f">198</tspan><tspan x="1013.1" fill="#57606a"> | </tspan><tspan x="1040.2" fill="#953800">Followers</tspan><tspan x="1121.5" fill="#57606a">: </tspan><tspan x="1139.6" fill="#24292f">0</tspan></text>
+<text y="525" xml:space="preserve"><tspan x="597.8" fill="#953800">Lines of Code on GitHub</tspan><tspan x="805.5" fill="#57606a">:</tspan><tspan x="814.5" fill="#8c959f"> . . . . . . . . . . . </tspan><tspan x="1022.2" fill="#24292f">0</tspan><tspan x="1031.2" fill="#57606a"> ( </tspan><tspan x="1058.3" fill="#1a7f37">0++</tspan><tspan x="1085.4" fill="#57606a">, </tspan><tspan x="1103.4" fill="#cf222e">0--</tspan><tspan x="1130.5" fill="#57606a"> )</tspan></text>
 </svg>

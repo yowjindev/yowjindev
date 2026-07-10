@@ -171,10 +171,10 @@ def build_info(s):
 # ---------------------------------------------------------------- svg output
 
 THEMES = {
-    "dark_mode.svg": {
-        "bg": "#0d1117", "border": "#30363d", "art": "#c9d1d9",
-        "a": "#58a6ff", "k": "#e3b341", "v": "#c9d1d9", "d": "#8b949e",
-        "dim": "#484f58", "g": "#3fb950", "r": "#f85149",
+    "dark_mode.svg": {   # Claude Code inspired
+        "bg": "#1f1e1d", "border": "#3e3d38", "art": "#c2c0b6",
+        "a": "#d97757", "k": "#d97757", "v": "#faf9f5", "d": "#87867f",
+        "dim": "#55544e", "g": "#5db97d", "r": "#e0685e",
     },
     "light_mode.svg": {
         "bg": "#ffffff", "border": "#d0d7de", "art": "#24292f",
@@ -185,9 +185,13 @@ THEMES = {
 
 FONT = ("'SFMono-Regular','Consolas','Liberation Mono','Menlo',"
         "'DejaVu Sans Mono',monospace")
-FS = 15        # font size
-LH = 19        # line height
+FS = 15        # info font size
+LH = 19        # info line height
 CW = 9.03      # monospace char advance at 15px
+
+FS_ART = 10    # art font size (smaller -> higher detail)
+LH_ART = 11.5  # art line height
+CW_ART = 6.02  # monospace char advance at 10px
 
 
 def esc(t):
@@ -196,13 +200,14 @@ def esc(t):
 
 def render(art_lines, info_lines, theme, out):
     c = THEMES[out] if theme is None else theme
-    art_w = max(len(l) for l in art_lines) * CW
+    art_w = max(len(l) for l in art_lines) * CW_ART
     x_art, x_info = 28, 28 + art_w + 40
     width = int(x_info + W * CW + 28)
-    rows = max(len(art_lines), len(info_lines))
-    height = int(rows * LH + 60)
-    y0_art = 40 + (rows - len(art_lines)) * LH / 2
-    y0_info = 40 + (rows - len(info_lines)) * LH / 2
+    art_h = len(art_lines) * LH_ART
+    info_h = len(info_lines) * LH
+    height = int(max(art_h, info_h) + 60)
+    y0_art = 40 + (height - 60 - art_h) / 2
+    y0_info = 40 + (height - 60 - info_h) / 2
 
     p = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" '
          f'height="{height}" viewBox="0 0 {width} {height}" '
@@ -213,7 +218,8 @@ def render(art_lines, info_lines, theme, out):
     for i, line in enumerate(art_lines):
         if not line.strip():
             continue
-        p.append(f'<text x="{x_art}" y="{y0_art + i * LH:.0f}" xml:space="preserve" '
+        p.append(f'<text x="{x_art}" y="{y0_art + i * LH_ART:.1f}" '
+                 f'xml:space="preserve" font-size="{FS_ART}" '
                  f'fill="{c["art"]}">{esc(line)}</text>')
 
     for i, runs in enumerate(info_lines):
