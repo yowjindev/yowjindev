@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+c#!/usr/bin/env python3
 """
 Neofetch-style GitHub profile README generator for @yowjindev.
 Regenerates dark_mode.svg / light_mode.svg with live GitHub stats.
@@ -149,7 +149,7 @@ def build_info(s):
         kv("Hobbies.Hardware", "Overclocking, Building, Troubleshooting"),
         [],
         section("Contact"),
-        kv("Email.Personal", "ecfe0410@gmail.com"),
+        kv("Email.Personal", "eugeneclark.dev@gmail.com"),
         kv("Email.Work", "eridao@techiron.ph"),
         kv("LinkedIn", "eugene-clark-eridao"),
         kv("Discord", "YUJINHMNIDA"),
